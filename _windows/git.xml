@@ -1,5 +1,6 @@
 <application>
   <component name="Git.Application.Settings">
+    <option name="myPathToGit" value="C:\Users\Josepha PC\Downloads\candy\pluralsight-projects-Android-CandyCodedApplication-a736160\https-github.com-pluralsight-projects-Android-CandyCodedApplication\pluralsight-projects-Android-CandyCodedApplication-a736160.iml" />
     <option name="SSH_EXECUTABLE" value="BUILT_IN" />
   </component>
 </application>
